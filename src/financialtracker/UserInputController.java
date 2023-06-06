@@ -1,4 +1,5 @@
-package SmallChange;
+
+package src;
 
 import java.util.Scanner;
 
@@ -8,14 +9,14 @@ import java.util.Scanner;
  * 
  * @author yuanyuanliu
  */
-public class User {
+public class UserInputController {
 	
 	private static Scanner keyboard = new Scanner(System.in);
 	
 	/**
 	 * This is a utility class with only static members, prevent instantiation.
 	 */
-	private User() {}
+	private UserInputController() {}
 	
 	/**
 	 * This method prompts the user to enter an integer value, validates the input,
