@@ -23,7 +23,7 @@ The Financial Tracker Application is a Java-based application that helps users m
 
 To run the Financial Tracker Application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/YuanyuanLiu2304/financial-tracker.git`
+1. Clone the repository: `git clone https://github.com/YuanyuanLiu2304/FinancialFit-Tracker.git`
 2. Configure the database connection settings in the application code.
 3. Build the application using your preferred Java development environment or build tool.
 4. Run the application and start managing your finances!
