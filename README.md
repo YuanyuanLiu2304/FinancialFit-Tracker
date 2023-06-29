@@ -8,7 +8,7 @@ The Financial Tracker Application is a Java-based application that helps users m
 - **Registration**: New users can create an account by providing their email, username, and password.
 - **Password Reset**: Users can request a password reset if they forget their password, and a verification code will be sent to their registered email.
 - **Income**: Users can record their income transactions, including the amount and description.
-- **Expenses**: Users can record their expenses, including the amount, description, and category.
+- **Expenses**: Users can record their expenses, including the amount and description.
 - **Transaction History**: Users can view a history of their recorded transactions, including the date, description, amount, and account balance at the time of the transaction.
 
 ## Technologies Used
