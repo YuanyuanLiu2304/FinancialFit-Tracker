@@ -14,9 +14,9 @@ The Financial Tracker Application is a Java-based application that helps users m
 ## Technologies Used
 
 - Java: The core programming language used to develop the application.
+- Singleton Design Pattern: Used to create a single instance of the database connection to ensure thread safety and efficient resource utilization.
 - MySQL: The database management system used to store user account and transaction data.
 - JDBC: Java Database Connectivity API for connecting and interacting with the MySQL database.
-- Singleton Design Pattern: Used to create a single instance of the database connection to ensure thread safety and efficient resource utilization.
 - Git: Version control system for tracking changes and collaborating on the project.
 
 ## Getting Started
