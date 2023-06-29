@@ -16,14 +16,14 @@ The Financial Tracker Application is a Java-based application that helps users m
 - Java: The core programming language used to develop the application.
 - MySQL: The database management system used to store user account and transaction data.
 - JDBC: Java Database Connectivity API for connecting and interacting with the MySQL database.
+- Singleton Design Pattern: Used to create a single instance of the database connection to ensure thread safety and efficient resource utilization.
 - Git: Version control system for tracking changes and collaborating on the project.
-- GitHub: Hosting platform for the project repository.
 
 ## Getting Started
 
 To run the Financial Tracker Application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/YuanyuanLiu2304/FinancialFit-Tracker.git`
+1. Clone the repository: `git clone https://github.com/YuanyuanLiu2304/Financial-Tracker.git`
 2. Configure the database connection settings in the application code.
 3. Build the application using your preferred Java development environment or build tool.
 4. Run the application and start managing your finances!
